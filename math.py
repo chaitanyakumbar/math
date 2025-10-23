@@ -11,4 +11,4 @@ diff_result = num1 - num2
 
 # Display results
 print("Addition:", sum_result)
-print("Subtraction:", diff_result)
+print("Subtraction:",diff_result)
